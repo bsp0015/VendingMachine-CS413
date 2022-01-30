@@ -1,6 +1,6 @@
 @ File: Lab5Perry.s
-@ Author: Brandon S. Perry
-@ Email: bsp0015@uah.edu
+@ Author: Perry
+@ Email: 
 @ Course: CS413-01 Fall 2021
 @ History:
 @	10-31-2021   File Created
